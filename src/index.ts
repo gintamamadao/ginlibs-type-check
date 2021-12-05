@@ -3,7 +3,7 @@ export function isString(v: any): v is string {
 }
 
 export function isFinite(v: any): boolean {
-  return v !== Infinity && v !== -Infinity
+  return Number.isFinite(v)
 }
 
 export function isNumber(v: any): v is number {
