@@ -1,8 +1,8 @@
+# ginlibs-type-check
+
 [![NPM version](https://badgen.net/npm/v/ginlibs-type-check)](https://www.npmjs.com/package/ginlibs-type-check)
 [![NPM Weekly Downloads](https://badgen.net/npm/dw/ginlibs-type-check)](https://www.npmjs.com/package/ginlibs-type-check)
 [![License](https://badgen.net/npm/license/ginlibs-type-check)](https://www.npmjs.com/package/ginlibs-type-check)
-
-# ginlibs-type-check
 
 > 检查数据类型的工具函数
 
